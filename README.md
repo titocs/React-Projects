@@ -3,7 +3,7 @@
 
 This repository are used for challenging myself about slicing design from given design. Also, i didnt buy the pro version from this websites, therefore i dont have access to any design files relying only on my vision and approximation
 
-| **Difficulty** | **Challenges** | **Publish Date** |
+| Aplikasi | **Publish Date** |
 |---|---|
 |[Aplikasi Catatanku](#aplikasi-catatanku) &nbsp; &nbsp; &nbsp; &nbsp;| 26 Oktober 2023 |
 
